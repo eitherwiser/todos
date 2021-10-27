@@ -1,0 +1,20 @@
+[
+  {
+    "id": "id_1",
+    "label": "learning JS!",
+    "completed": true,
+    "important": false
+  },
+  {
+    "id": "id_2",
+    "label": "learning React!",
+    "completed": false,
+    "important": true
+  },
+  {
+    "id": "id_3",
+    "label": "learning Redux!",
+    "completed": false,
+    "important": false
+  }
+]
